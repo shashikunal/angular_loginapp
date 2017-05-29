@@ -1,0 +1,21 @@
+{
+  "name": "angularregister",
+  "version": "1.0.0",
+  "description": "test app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "angular",
+    "single",
+    "page",
+    "app"
+  ],
+  "author": "shashi",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
